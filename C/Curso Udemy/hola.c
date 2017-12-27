@@ -1,3 +1,9 @@
+/*
+* El clasico Hola Mundo
+* CaosMx
+* 27 DIc 2017
+*/
+
 #include<stdio.h>
 
 int main(){

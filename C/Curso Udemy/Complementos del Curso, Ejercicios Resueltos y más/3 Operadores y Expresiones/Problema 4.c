@@ -1,4 +1,9 @@
-/*4. Hacer un Programa que calcule longitudes de Circunferencia. (Propuesto)*/
+/*4. Hacer un Programa que calcule longitudes de Circunferencia. (Propuesto)
+Usando la fórmula: L = PI * radio
+* CaosMx
+* 27 DIc 2017
+*/
+
 #include<stdio.h>
 #define PI 3.1416
 

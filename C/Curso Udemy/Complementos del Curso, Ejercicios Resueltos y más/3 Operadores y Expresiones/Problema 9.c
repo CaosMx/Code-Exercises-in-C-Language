@@ -1,5 +1,8 @@
 /*9. Calcular el nuevo salario de un obrero 
-si obtuvo un incremento del 25% sobre su salario anterior.*/
+* si obtuvo un incremento del 25% sobre su salario anterior.
+* CaosMx
+* 27 DIc 2017
+* */
 #include<stdio.h>
 
 int main(){

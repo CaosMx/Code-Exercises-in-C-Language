@@ -1,5 +1,8 @@
 /*8. Dadas las horas trabajadas de una persona y el valor por hora. 
-Calcular su salario e imprimirlo (Propuesto)*/
+* Calcular su salario e imprimirlo (Propuesto)
+* CaosMx
+* 27 DIc 2017
+*/
 
 #include<stdio.h>
 
@@ -16,4 +19,4 @@ int main(){
 	printf("\nEl salario total es: %i",salario);
 	
 	return 0;
-}
+}//main

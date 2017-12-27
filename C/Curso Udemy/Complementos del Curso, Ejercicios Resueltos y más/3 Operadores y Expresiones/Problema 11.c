@@ -1,5 +1,8 @@
 /*11. Calcular la cantidad de segundos que están incluidos en el número de horas,
-minutos y segundos ingresados por el usuario.*/ 
+minutos y segundos ingresados por el usuario.
+* CaosMx
+* 27 DIc 2017
+*/ 
 
 #include<stdio.h>
 

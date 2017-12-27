@@ -1,5 +1,10 @@
 /*1. Pedir 2 números al usuario y sumarlos, restarlos, multiplicarlos 
-y dividirlos.*/
+y dividirlos.
+* CaosMx
+* 27 Dic 2017
+*/
+
+
 #include<stdio.h>
 
 int main(){

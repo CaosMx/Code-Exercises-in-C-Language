@@ -1,3 +1,9 @@
+/*
+* RadixSort para Análisis de Algoritmos
+* CaosMx
+* 27 Dic 2017
+ */
+
 #include <stdio.h>
 #include <math.h>
 #define NUMELTS 20 //NOmbre estructura y capacidad máxima de ints

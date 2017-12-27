@@ -1,5 +1,8 @@
 /*3. Sacar la hipotenusa de un triángulo rectángulo, 
-pidiendo al usuario el valor de los 2 catetos*/
+pidiendo al usuario el valor de los 2 catetos
+* CaosMx
+* 27 DIc 217
+*/
 
 #include<stdio.h>
 #include<math.h>

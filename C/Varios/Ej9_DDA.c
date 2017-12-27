@@ -2,6 +2,7 @@
  * Ej 9 Diseño de Algoritmos
  * 15 de Septiembre 2016
  * Resuelve Ec Cuadrática
+ * CaosMx
  */
 
 #include <stdio.h>

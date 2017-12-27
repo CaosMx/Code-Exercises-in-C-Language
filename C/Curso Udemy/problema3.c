@@ -1,4 +1,7 @@
-/*Obtener la hipotenusa de un triángulo rectángulo, pidiendo los 2 catetos:*/
+/*Obtener la hipotenusa de un triángulo rectángulo, pidiendo los 2 catetos:
+* CaosMx
+* 27 Dic 2017
+*/
 
 #include <stdio.h>
 #include <math.h>

@@ -1,4 +1,9 @@
 //Entradas y Salidas
+/*
+* Ejemplo de PRINTF y SCANF
+* CaosMx
+* 2 Dic 2017
+*/
 
 #include <stdio.h>
 
@@ -31,8 +36,10 @@ int main(){
     printf("Digite el valor de su nombre g:\n");
     gets(g);//usando gets
     printf("EL valor es: %s\n",g);
+
     //AL compilar en ubuntu da error de que gets es peligroso
     //gcc file -o -w file output
+    //Para compilar haciendo caso omiso al Warning
 
 
     return 0;

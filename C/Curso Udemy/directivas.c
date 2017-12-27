@@ -1,4 +1,9 @@
 //Directivas del Preprocesador y Variables:
+/*
+* Diferencias entre Variables LOcales y Globales
+* CaosMx
+* 27 DIc 2017
+ */
 
 
 //LIBRERIAS

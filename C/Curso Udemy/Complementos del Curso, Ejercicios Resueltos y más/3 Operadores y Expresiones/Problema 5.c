@@ -1,4 +1,8 @@
-/*5. Hacer un Programa que calcule áreas de trapecios*/
+/*5. Hacer un Programa que calcule áreas de trapecios
+* Usnado fórmula: area = ((base_M+base_m)*altura)/2
+* CaosMx
+* 27 Dic 2017
+*/
 
 #include<stdio.h>
 

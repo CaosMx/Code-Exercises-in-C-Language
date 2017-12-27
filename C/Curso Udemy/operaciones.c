@@ -1,5 +1,7 @@
 //Operaciones:
 //Pedir 2 numeros al user y +,-,*,/
+//CaosMx
+//27 DIc 2017
 
 #include <stdio.h>
 

@@ -2,6 +2,7 @@
  * Ej 10 Diseño de Algoritmos
  * 16 Septiembre 2016
  * Introducir los Segundos y saber cuantas horas, minutos y segundos equivale
+ * CaosMx
  */
 
 #include <stdio.h>

@@ -1,4 +1,6 @@
 //2. Convertir Grados Celsius a Grados Fahrenheit (Propuesto)
+//CaosMx
+//27 Dic 2017
 
 #include<stdio.h>
 
