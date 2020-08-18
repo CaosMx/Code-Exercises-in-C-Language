@@ -1,8 +1,8 @@
-#Ejercicios Codigo
+# Ejercicios Codigo
 
-##Usando el Lenguaje de Programación "C"
+## Usando el Lenguaje de Programación "C"
 
-##Desarrollados a lo largo de:
+## Desarrollados a lo largo de:
 
 *La Carrera de **Ingeniería** en Sistemas Computacionales* en:
 
@@ -11,6 +11,7 @@
 [El Instituto Politécnico Nacional](https://www.ipn.mx/) en:
 
 [La Ciudad de México](https://www.cdmx.gob.mx/)
+
 
  :open_file_folder:
 
@@ -23,15 +24,14 @@ int main()
   return 0;
 }
 ```
-![Lenguaje C](https://img2.freepng.es/20180403/xyw/kisspng-computer-programming-programming-language-c-prog-language-5ac35f729bf801.1219943615227533946389.jpg)
 
  :notebook:
 
-#Code Exercises 
+# Code Exercises 
 
-##Using the "C" Programming Language
+## Using the "C" Programming Language
 
-##Developed throughout: 
+## Developed throughout: 
 
 *The Computer Systems **Engineering** Career* in: 
 
@@ -41,3 +41,6 @@ int main()
 
 [Mexico City(https://www.cdmx.gob.mx/)
 
+
+
+![Lenguaje C](https://img2.freepng.es/20180403/xyw/kisspng-computer-programming-programming-language-c-prog-language-5ac35f729bf801.1219943615227533946389.jpg)
